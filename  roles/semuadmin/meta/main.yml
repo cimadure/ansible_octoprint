@@ -25,6 +25,7 @@ galaxy_info:
   - octopi
   - raspbian
   - raspberry
+  - pi
   - rpi
   - raspberrypi
   - mjpgstreamer
